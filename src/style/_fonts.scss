@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'PlayfairDisplay';
+  src: url('../assets/fonts/playfair-display-bold/PlayfairDisplay-Bold.eot');
+  src: url('../assets/fonts/playfair-display-bold/PlayfairDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+       url('../assets/fonts/playfair-display-bold/PlayfairDisplay-Bold.svg#PlayfairDisplay-Bold') format('svg'),
+       url('../assets/fonts/playfair-display-bold/PlayfairDisplay-Bold.ttf') format('truetype'),
+       url('../assets/fonts/playfair-display-bold/PlayfairDisplay-Bold.woff') format('woff'),
+       url('../assets/fonts/playfair-display-bold/PlayfairDisplay-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PlayfairDisplay';
+  src: url('../assets/fonts/playfair-italic/PlayfairDisplay-Italic.eot');
+  src: url('../assets/fonts/playfair-italic/PlayfairDisplay-Italic.eot?#iefix') format('embedded-opentype'),
+       url('../assets/fonts/playfair-italic/PlayfairDisplay-Italic.svg#PlayfairDisplay-Italic') format('svg'),
+       url('../assets/fonts/playfair-italic/PlayfairDisplay-Italic.ttf') format('truetype'),
+       url('../assets/fonts/playfair-italic/PlayfairDisplay-Italic.woff') format('woff'),
+       url('../assets/fonts/playfair-italic/PlayfairDisplay-Italic.woff2') format('woff2');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'WorkSans';
+  src: url('../assets/fonts/work-sans/WorkSans-Regular.eot');
+  src: url('../assets/fonts/work-sans/WorkSans-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../assets/fonts/work-sans/WorkSans-Regular.svg#WorkSans-Regular') format('svg'),
+       url('../assets/fonts/work-sans/WorkSans-Regular.ttf') format('truetype'),
+       url('../assets/fonts/work-sans/WorkSans-Regular.woff') format('woff'),
+       url('../assets/fonts/work-sans/WorkSans-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
